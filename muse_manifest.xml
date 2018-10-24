@@ -1,7 +1,6 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://andyvpoeijer.github.io/maud" resolutions="1x" timestamp="1540386679120">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://andyvpoeijer.github.io/maud" resolutions="1x" timestamp="1540386842673">
   <folder name="images">
     <file name="background-website-u202b403608205u202c-u202bu202c.jpg" crc="147000667" ref="index:photo">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="photo" alt=""/>
@@ -14,7 +13,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="123800277" ref="index"/>
+    <file name="index.css" crc="318402579" ref="index"/>
     <file name="nomq_index.css" crc="12620299" ref="index"/>
     <file name="photo.css" crc="135768811" ref="photo"/>
   </folder>
@@ -28,6 +27,6 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
-  <file name="index.html" crc="304829983" seo="true" mt="1540386661298" redirect="true"/>
+  <file name="index.html" crc="3986973094" seo="true" mt="1540386829753" redirect="true"/>
   <file name="photo.html" crc="4273508590" seo="true" mt="1540385184268" redirect="true"/>
 </manifest>
