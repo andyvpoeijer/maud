@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://andyvpoeijer.github.io/maud" resolutions="1x" timestamp="1540389311593">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://andyvpoeijer.github.io/maud" resolutions="1x" timestamp="1540389643727">
   <folder name="images">
     <file name="background-website-u202b403608205u202c-u202bu202c.jpg" crc="147000667" ref="index:photo">
       <caption webpage="index" alt=""/>
