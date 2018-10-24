@@ -1,26 +1,27 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://andyvpoeijer.github.io/maud" resolutions="1x" timestamp="1540388824968">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://andyvpoeijer.github.io/maud" resolutions="1x" timestamp="1540388990814">
   <folder name="images">
     <file name="background-website-u202b403608205u202c-u202bu202c.jpg" crc="147000667" ref="index:photo">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
-    <file name="u179-95.png" crc="278303890" ref="index"/>
+    <file name="u179-95.png" crc="3996363111" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="collage.jpg" crc="493858415" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
     </file>
-    <file name="u179-952.png" crc="243003219" ref="index"/>
+    <file name="u179-952.png" crc="4063061963" ref="index"/>
     <file name="background-website-u202b403608205u202c-u202bu202c1228x767.jpg" crc="4200130576" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="background-website-u202b403608205u202c-u202bu202c720x450.jpg" crc="4082438548" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u179-953.png" crc="4246499591" ref="index"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4187037736" ref="index"/>
+    <file name="index.css" crc="250945697" ref="index"/>
     <file name="nomq_index.css" crc="4138587915" ref="index"/>
     <file name="photo.css" crc="135768811" ref="photo"/>
   </folder>
@@ -34,6 +35,6 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
-  <file name="index.html" crc="3928155047" seo="true" mt="1540388814247" redirect="true"/>
+  <file name="index.html" crc="4264184364" seo="true" mt="1540388983385" redirect="true"/>
   <file name="photo.html" crc="4273508590" seo="true" mt="1540385184268" redirect="true"/>
 </manifest>
